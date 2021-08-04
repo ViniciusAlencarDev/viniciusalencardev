@@ -1,6 +1,7 @@
 ### Welcome to my profile 👋
 
-Conteudos em video: https://www.youtube.com/channel/UCBKuXKqWbAT_ZRZAoaRdnRA
+YouTubew
+https://www.youtube.com/channel/UCBKuXKqWbAT_ZRZAoaRdnRA
 
 <!--
 **ViniciusAlencarDev/viniciusalencardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
