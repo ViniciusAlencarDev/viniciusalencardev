@@ -1,5 +1,7 @@
 ### Welcome to my profile 👋
 
+I am a freelance software developer
+
 #### YouTube:
 https://www.youtube.com/channel/UCBKuXKqWbAT_ZRZAoaRdnRA
 
