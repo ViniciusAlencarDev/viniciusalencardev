@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-YouTubew
+## YouTube
 https://www.youtube.com/channel/UCBKuXKqWbAT_ZRZAoaRdnRA
 
 <!--
