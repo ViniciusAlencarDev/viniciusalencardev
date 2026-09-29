@@ -1,7 +1,7 @@
-### Hey, what's up buddy? 👾
+### What's up buddy? 👾
 
-I've been writing code for over 10 years ☕💻.
-My passion is creating applications that actually make sense, solve real problems, and innovate.
+I've been writing code for over 10 years ☕💻. 
+I like creating applications that actually make sense, solve real problems, and innovate.
 Here you'll find some of the projects I’ve been working on.
 
 Let’s make things happen! 🚀
