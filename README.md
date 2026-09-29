@@ -1,6 +1,6 @@
-### Hey, what's up, buddy? 👾
+### Hey, what's up buddy? 👾
 
-I've been writing code and drinking coffee for over 10 years ☕💻.
+I've been writing code for over 10 years ☕💻.
 My passion is creating applications that actually make sense, solve real problems, and innovate.
 Here you'll find some of the projects I’ve been working on.
 
